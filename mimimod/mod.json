@@ -1,9 +1,0 @@
-{
-    "id": "mimimod",
-    "version": "2.0.0",
-    "authors": ["Mimikyu"],
-    "name": "mimimod",
-    "description": "Adds new symbols to Luck be a Landlord",
-    "dependencies": [],
-    "load-after": []
-}
